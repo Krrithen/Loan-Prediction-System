@@ -39,3 +39,7 @@ The main objective of this Loan Prediction System is twofold:
 | `loan_status`           | Status of the loan (Approved/Rejected)                    |
 
 This system leverages these data attributes to analyze applicants' profiles and make informed predictions, enabling efficient and fair decision-making in loan approval.
+
+## Conclusion
+
+The Loan Prediction System achieves high accuracy, with the Decision Tree and Random Forest models both reaching 98% accuracy. These models provide reliable predictions for loan eligibility, streamlining the approval process and offering valuable insights to help applicants improve their chances of qualifying in the future.
